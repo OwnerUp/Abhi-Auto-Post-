@@ -34,7 +34,7 @@ ROYAL WIN 💠"""
 🆔LELO YAHA SE OR LIMIT RADDY
 RAKHO 👇
 
-Plat at -- Www.Khelking.io"""
+Plat at -- Www.Khelking.com"""
 
     promo2 = f"""{winner} WIN THE MATCH
 
@@ -44,7 +44,7 @@ wa.link/khelkingvipho
 WAIT FOR BEST ENTRY
 
 Ragister & Bet
-Www.Khelking.io"""
+Www.Khelking.com"""
 
     return text, promo1, promo2
 
