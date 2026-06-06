@@ -24,7 +24,7 @@ Only One Khelking vip id💯
 http://wa.link/khelkingvipho
 
 PLACE YOUR BETS INDIA'S MOST 
-TRUSTED BOOK http://Www.Khelking.io 🔜"""
+TRUSTED BOOK http://Www.Khelking.com 🔜"""
 
     return caption, promo
 
